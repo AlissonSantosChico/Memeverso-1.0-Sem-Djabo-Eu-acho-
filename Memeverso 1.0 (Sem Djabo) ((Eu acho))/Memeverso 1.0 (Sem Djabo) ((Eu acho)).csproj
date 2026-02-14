@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <RootNamespace>Memeverso_1._0__Sem_Djabo____Eu_acho__</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="download %281%29.jpg" />
+    <None Remove="download %282%29.jpg" />
+    <None Remove="download %283%29.jpg" />
+    <None Remove="download %287%29.jpg" />
+    <None Remove="download %288%29.jpg" />
+    <None Remove="download %289%29.jpg" />
+    <None Remove="download.jpg" />
+    <None Remove="🕴️.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="download (1).jpg" />
+    <Resource Include="download (2).jpg" />
+    <Resource Include="download (3).jpg" />
+    <Resource Include="download (7).jpg" />
+    <Resource Include="download (8).jpg" />
+    <Resource Include="download (9).jpg" />
+    <Resource Include="download.jpg" />
+    <Resource Include="🕴️.jpg" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+﻿<Application x:Class="Memeverso_1._0__Sem_Djabo____Eu_acho__.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Memeverso_1._0__Sem_Djabo____Eu_acho__"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
