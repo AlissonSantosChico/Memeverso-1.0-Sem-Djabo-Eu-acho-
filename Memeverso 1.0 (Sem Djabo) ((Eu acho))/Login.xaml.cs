@@ -30,6 +30,8 @@ namespace Memeverso_1._0__Sem_Djabo____Eu_acho__
             if (Senha_Usuario.Password == senhacorreta)
             {
                 MessageBox.Show("Seja bem vindo ao Site Memeverso");
+                WindowBlog windowBlog = new WindowBlog();
+                windowBlog.Show();
             }
             else
             {
@@ -48,6 +50,8 @@ namespace Memeverso_1._0__Sem_Djabo____Eu_acho__
             }
 
         }
+
+
 
         private void Login_Usuario_TextChanged(object sender, TextChangedEventArgs e)
         {

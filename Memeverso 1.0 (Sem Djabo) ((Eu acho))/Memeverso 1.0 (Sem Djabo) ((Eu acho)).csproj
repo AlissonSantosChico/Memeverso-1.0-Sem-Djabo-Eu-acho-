@@ -10,6 +10,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="clock %281%29.png" />
+    <None Remove="clock.png" />
+    <None Remove="down-arrow.png" />
     <None Remove="download %281%29.jpg" />
     <None Remove="download %282%29.jpg" />
     <None Remove="download %283%29.jpg" />
@@ -17,10 +20,16 @@
     <None Remove="download %288%29.jpg" />
     <None Remove="download %289%29.jpg" />
     <None Remove="download.jpg" />
+    <None Remove="flame.png" />
+    <None Remove="meme1.jpg" />
+    <None Remove="sddefault.jpg" />
     <None Remove="🕴️.jpg" />
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="clock (1).png" />
+    <Resource Include="clock.png" />
+    <Resource Include="down-arrow.png" />
     <Resource Include="download (1).jpg" />
     <Resource Include="download (2).jpg" />
     <Resource Include="download (3).jpg" />
@@ -28,6 +37,9 @@
     <Resource Include="download (8).jpg" />
     <Resource Include="download (9).jpg" />
     <Resource Include="download.jpg" />
+    <Resource Include="flame.png" />
+    <Resource Include="meme1.jpg" />
+    <Resource Include="sddefault.jpg" />
     <Resource Include="🕴️.jpg" />
   </ItemGroup>
 
